@@ -1,0 +1,1431 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Web Agency",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home-5362697496382b05593b0020a8d2248e.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2-d1826e4ed0b07b6d26f68da70faec05a.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 3",
+            "screenshot": "screenshots\/home-3.jpg",
+            "source": "templates\/home-3-c3ca992604624dd11bfa61827d71ee23.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services-51526113e905c123e0a79a366d685bb4.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services 2",
+            "screenshot": "screenshots\/services-2.jpg",
+            "source": "templates\/services-2-435fa014bdbd29a62d39434f808b0c96.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "How We Work",
+            "screenshot": "screenshots\/how-we-work.jpg",
+            "source": "templates\/how-we-work-5d1246fb2706e2c80123e764ae3c76dd.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio",
+            "screenshot": "screenshots\/portfolio.jpg",
+            "source": "templates\/portfolio-f33647019652e07b21195865da21f23a.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Portfolio 2",
+            "screenshot": "screenshots\/portfolio-2.jpg",
+            "source": "templates\/portfolio-2-601dfd462319fb21e87446e4701b9481.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us 2",
+            "screenshot": "screenshots\/about-us-2.jpg",
+            "source": "templates\/about-us-2-1d364e9adfd9e8acd03605d5f21c237b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us-36da6e31c626f43edbcc84481f042050.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Help",
+            "screenshot": "screenshots\/help.jpg",
+            "source": "templates\/help-0d081d05f614a994aae2b6b38585d994.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq-0f4330c2dd31183f6b00088b55f4d3e9.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Plans",
+            "screenshot": "screenshots\/plans.jpg",
+            "source": "templates\/plans-1efbad7ec7e742763cf0b4dd6067727a.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Case Study",
+            "screenshot": "screenshots\/case-study.jpg",
+            "source": "templates\/case-study-8be1064ed2b3cb8eff3cffd6850f6bc7.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Case Study 2",
+            "screenshot": "screenshots\/case-study-2.jpg",
+            "source": "templates\/case-study-2-510094d859fe657bf136d3fb0f44f4b1.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team-36524bc5bdb717809e1e1cbdcd9c650c.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us-152ced9b972fd0010ef360700d4db577.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [
+        {
+            "name": "Custom CSS",
+            "description": "These styles are added to the WordPress Customizer.",
+            "file": "css\/customizer.css"
+        }
+    ],
+    "images": [
+        {
+            "filename": "web-agency-bg-4.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-38\/wp-content\/uploads\/sites\/41\/2018\/07\/web-agency-bg-4-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-5362697496382b05593b0020a8d2248e.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/how-we-work-5d1246fb2706e2c80123e764ae3c76dd.json",
+                    "name": "How We Work"
+                },
+                {
+                    "source": "templates\/about-us-2-1d364e9adfd9e8acd03605d5f21c237b.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/team-36524bc5bdb717809e1e1cbdcd9c650c.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 133977,
+            "dimensions": [
+                2550,
+                1700
+            ]
+        },
+        {
+            "filename": "mixkit-person-wearing-a-vr-mask-in-a-virtual-reality-room-64-original-large.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-38\/wp-content\/uploads\/sites\/41\/2018\/07\/mixkit-person-wearing-a-vr-mask-in-a-virtual-reality-room-64-original-large-500x282.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-5362697496382b05593b0020a8d2248e.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-d1826e4ed0b07b6d26f68da70faec05a.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-c3ca992604624dd11bfa61827d71ee23.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/how-we-work-5d1246fb2706e2c80123e764ae3c76dd.json",
+                    "name": "How We Work"
+                },
+                {
+                    "source": "templates\/portfolio-f33647019652e07b21195865da21f23a.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/about-us-2-1d364e9adfd9e8acd03605d5f21c237b.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/case-study-8be1064ed2b3cb8eff3cffd6850f6bc7.json",
+                    "name": "Case Study"
+                },
+                {
+                    "source": "templates\/case-study-2-510094d859fe657bf136d3fb0f44f4b1.json",
+                    "name": "Case Study 2"
+                }
+            ],
+            "filesize": 94371,
+            "dimensions": [
+                1243,
+                700
+            ]
+        },
+        {
+            "filename": "malvestida-magazine-458582-unsplash.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-38\/wp-content\/uploads\/sites\/41\/2018\/07\/malvestida-magazine-458582-unsplash.png",
+            "templates": [
+                {
+                    "source": "templates\/home-5362697496382b05593b0020a8d2248e.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 78144,
+            "dimensions": [
+                360,
+                240
+            ]
+        },
+        {
+            "filename": "web-agency-bg1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-38\/wp-content\/uploads\/sites\/41\/2018\/07\/web-agency-bg1-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-5362697496382b05593b0020a8d2248e.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-d1826e4ed0b07b6d26f68da70faec05a.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/services-2-435fa014bdbd29a62d39434f808b0c96.json",
+                    "name": "Services 2"
+                },
+                {
+                    "source": "templates\/how-we-work-5d1246fb2706e2c80123e764ae3c76dd.json",
+                    "name": "How We Work"
+                },
+                {
+                    "source": "templates\/portfolio-2-601dfd462319fb21e87446e4701b9481.json",
+                    "name": "Portfolio 2"
+                },
+                {
+                    "source": "templates\/about-us-36da6e31c626f43edbcc84481f042050.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/faq-0f4330c2dd31183f6b00088b55f4d3e9.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/plans-1efbad7ec7e742763cf0b4dd6067727a.json",
+                    "name": "Plans"
+                },
+                {
+                    "source": "templates\/contact-us-152ced9b972fd0010ef360700d4db577.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 164606,
+            "dimensions": [
+                2500,
+                1667
+            ]
+        },
+        {
+            "filename": "user-profile-account-details-ios-app-design-d56.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-38\/wp-content\/uploads\/sites\/41\/2018\/07\/user-profile-account-details-ios-app-design-d56-500x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-5362697496382b05593b0020a8d2248e.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolio-f33647019652e07b21195865da21f23a.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-2-601dfd462319fb21e87446e4701b9481.json",
+                    "name": "Portfolio 2"
+                },
+                {
+                    "source": "templates\/case-study-8be1064ed2b3cb8eff3cffd6850f6bc7.json",
+                    "name": "Case Study"
+                },
+                {
+                    "source": "templates\/case-study-2-510094d859fe657bf136d3fb0f44f4b1.json",
+                    "name": "Case Study 2"
+                }
+            ],
+            "filesize": 129284,
+            "dimensions": [
+                800,
+                600
+            ]
+        },
+        {
+            "filename": "mixkit-woman-lying-on-a-couch-looking-at-her-mobile-phone-65-original-large.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-38\/wp-content\/uploads\/sites\/41\/2018\/07\/mixkit-woman-lying-on-a-couch-looking-at-her-mobile-phone-65-original-large-500x282.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-5362697496382b05593b0020a8d2248e.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-d1826e4ed0b07b6d26f68da70faec05a.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-c3ca992604624dd11bfa61827d71ee23.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/portfolio-f33647019652e07b21195865da21f23a.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-2-601dfd462319fb21e87446e4701b9481.json",
+                    "name": "Portfolio 2"
+                },
+                {
+                    "source": "templates\/case-study-8be1064ed2b3cb8eff3cffd6850f6bc7.json",
+                    "name": "Case Study"
+                },
+                {
+                    "source": "templates\/case-study-2-510094d859fe657bf136d3fb0f44f4b1.json",
+                    "name": "Case Study 2"
+                }
+            ],
+            "filesize": 69805,
+            "dimensions": [
+                1243,
+                700
+            ]
+        },
+        {
+            "filename": "app-onboarding-walkthrough-screens-y19.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-38\/wp-content\/uploads\/sites\/41\/2018\/07\/app-onboarding-walkthrough-screens-y19-500x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-5362697496382b05593b0020a8d2248e.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolio-f33647019652e07b21195865da21f23a.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-2-601dfd462319fb21e87446e4701b9481.json",
+                    "name": "Portfolio 2"
+                },
+                {
+                    "source": "templates\/help-0d081d05f614a994aae2b6b38585d994.json",
+                    "name": "Help"
+                },
+                {
+                    "source": "templates\/case-study-8be1064ed2b3cb8eff3cffd6850f6bc7.json",
+                    "name": "Case Study"
+                },
+                {
+                    "source": "templates\/case-study-2-510094d859fe657bf136d3fb0f44f4b1.json",
+                    "name": "Case Study 2"
+                }
+            ],
+            "filesize": 278405,
+            "dimensions": [
+                800,
+                600
+            ]
+        },
+        {
+            "filename": "mixkit-woman-running-while-wearing-headphones-and-holding-a-mobile-phone-63-original-large.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-38\/wp-content\/uploads\/sites\/41\/2018\/07\/mixkit-woman-running-while-wearing-headphones-and-holding-a-mobile-phone-63-original-large-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-5362697496382b05593b0020a8d2248e.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services-51526113e905c123e0a79a366d685bb4.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/how-we-work-5d1246fb2706e2c80123e764ae3c76dd.json",
+                    "name": "How We Work"
+                },
+                {
+                    "source": "templates\/portfolio-f33647019652e07b21195865da21f23a.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-2-601dfd462319fb21e87446e4701b9481.json",
+                    "name": "Portfolio 2"
+                },
+                {
+                    "source": "templates\/about-us-36da6e31c626f43edbcc84481f042050.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/plans-1efbad7ec7e742763cf0b4dd6067727a.json",
+                    "name": "Plans"
+                },
+                {
+                    "source": "templates\/case-study-8be1064ed2b3cb8eff3cffd6850f6bc7.json",
+                    "name": "Case Study"
+                },
+                {
+                    "source": "templates\/team-36524bc5bdb717809e1e1cbdcd9c650c.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 66962,
+            "dimensions": [
+                1245,
+                700
+            ]
+        },
+        {
+            "filename": "ios-movies-app-design-m39.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-38\/wp-content\/uploads\/sites\/41\/2018\/07\/ios-movies-app-design-m39-500x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-5362697496382b05593b0020a8d2248e.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolio-f33647019652e07b21195865da21f23a.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-2-601dfd462319fb21e87446e4701b9481.json",
+                    "name": "Portfolio 2"
+                },
+                {
+                    "source": "templates\/case-study-8be1064ed2b3cb8eff3cffd6850f6bc7.json",
+                    "name": "Case Study"
+                },
+                {
+                    "source": "templates\/case-study-2-510094d859fe657bf136d3fb0f44f4b1.json",
+                    "name": "Case Study 2"
+                }
+            ],
+            "filesize": 168897,
+            "dimensions": [
+                800,
+                600
+            ]
+        },
+        {
+            "filename": "mixkit-man-sitting-in-front-of-a-fire-reading-from-a-66-original-large.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-38\/wp-content\/uploads\/sites\/41\/2018\/07\/mixkit-man-sitting-in-front-of-a-fire-reading-from-a-66-original-large-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-5362697496382b05593b0020a8d2248e.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolio-2-601dfd462319fb21e87446e4701b9481.json",
+                    "name": "Portfolio 2"
+                },
+                {
+                    "source": "templates\/help-0d081d05f614a994aae2b6b38585d994.json",
+                    "name": "Help"
+                },
+                {
+                    "source": "templates\/case-study-8be1064ed2b3cb8eff3cffd6850f6bc7.json",
+                    "name": "Case Study"
+                },
+                {
+                    "source": "templates\/case-study-2-510094d859fe657bf136d3fb0f44f4b1.json",
+                    "name": "Case Study 2"
+                },
+                {
+                    "source": "templates\/contact-us-152ced9b972fd0010ef360700d4db577.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 95038,
+            "dimensions": [
+                1245,
+                700
+            ]
+        },
+        {
+            "filename": "freebie-mockup.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-38\/wp-content\/uploads\/sites\/41\/2018\/07\/freebie-mockup-500x350.png",
+            "templates": [
+                {
+                    "source": "templates\/home-5362697496382b05593b0020a8d2248e.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-d1826e4ed0b07b6d26f68da70faec05a.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-c3ca992604624dd11bfa61827d71ee23.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/portfolio-f33647019652e07b21195865da21f23a.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 226388,
+            "dimensions": [
+                628,
+                440
+            ]
+        },
+        {
+            "filename": "web-agency-bg-overlay.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-38\/wp-content\/uploads\/sites\/41\/2018\/07\/web-agency-bg-overlay-500x333.png",
+            "templates": [
+                {
+                    "source": "templates\/home-5362697496382b05593b0020a8d2248e.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-d1826e4ed0b07b6d26f68da70faec05a.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-c3ca992604624dd11bfa61827d71ee23.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/services-51526113e905c123e0a79a366d685bb4.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-2-435fa014bdbd29a62d39434f808b0c96.json",
+                    "name": "Services 2"
+                },
+                {
+                    "source": "templates\/how-we-work-5d1246fb2706e2c80123e764ae3c76dd.json",
+                    "name": "How We Work"
+                },
+                {
+                    "source": "templates\/portfolio-f33647019652e07b21195865da21f23a.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-2-601dfd462319fb21e87446e4701b9481.json",
+                    "name": "Portfolio 2"
+                },
+                {
+                    "source": "templates\/about-us-2-1d364e9adfd9e8acd03605d5f21c237b.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/about-us-36da6e31c626f43edbcc84481f042050.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/help-0d081d05f614a994aae2b6b38585d994.json",
+                    "name": "Help"
+                },
+                {
+                    "source": "templates\/faq-0f4330c2dd31183f6b00088b55f4d3e9.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/plans-1efbad7ec7e742763cf0b4dd6067727a.json",
+                    "name": "Plans"
+                },
+                {
+                    "source": "templates\/case-study-8be1064ed2b3cb8eff3cffd6850f6bc7.json",
+                    "name": "Case Study"
+                },
+                {
+                    "source": "templates\/case-study-2-510094d859fe657bf136d3fb0f44f4b1.json",
+                    "name": "Case Study 2"
+                },
+                {
+                    "source": "templates\/team-36524bc5bdb717809e1e1cbdcd9c650c.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/contact-us-152ced9b972fd0010ef360700d4db577.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 52536,
+            "dimensions": [
+                2500,
+                1667
+            ]
+        },
+        {
+            "filename": "pexels-photo-939817.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-38\/wp-content\/uploads\/sites\/41\/2018\/07\/pexels-photo-939817-500x750.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-5362697496382b05593b0020a8d2248e.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-d1826e4ed0b07b6d26f68da70faec05a.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-c3ca992604624dd11bfa61827d71ee23.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/services-51526113e905c123e0a79a366d685bb4.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-2-435fa014bdbd29a62d39434f808b0c96.json",
+                    "name": "Services 2"
+                },
+                {
+                    "source": "templates\/portfolio-f33647019652e07b21195865da21f23a.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-2-601dfd462319fb21e87446e4701b9481.json",
+                    "name": "Portfolio 2"
+                },
+                {
+                    "source": "templates\/about-us-2-1d364e9adfd9e8acd03605d5f21c237b.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/about-us-36da6e31c626f43edbcc84481f042050.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/plans-1efbad7ec7e742763cf0b4dd6067727a.json",
+                    "name": "Plans"
+                },
+                {
+                    "source": "templates\/case-study-2-510094d859fe657bf136d3fb0f44f4b1.json",
+                    "name": "Case Study 2"
+                },
+                {
+                    "source": "templates\/team-36524bc5bdb717809e1e1cbdcd9c650c.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 110057,
+            "dimensions": [
+                640,
+                960
+            ]
+        },
+        {
+            "filename": "line.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-38\/wp-content\/uploads\/sites\/41\/2018\/07\/line.png",
+            "templates": [
+                {
+                    "source": "templates\/home-5362697496382b05593b0020a8d2248e.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-d1826e4ed0b07b6d26f68da70faec05a.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-c3ca992604624dd11bfa61827d71ee23.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/services-51526113e905c123e0a79a366d685bb4.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-2-435fa014bdbd29a62d39434f808b0c96.json",
+                    "name": "Services 2"
+                },
+                {
+                    "source": "templates\/how-we-work-5d1246fb2706e2c80123e764ae3c76dd.json",
+                    "name": "How We Work"
+                },
+                {
+                    "source": "templates\/portfolio-f33647019652e07b21195865da21f23a.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-2-601dfd462319fb21e87446e4701b9481.json",
+                    "name": "Portfolio 2"
+                },
+                {
+                    "source": "templates\/about-us-2-1d364e9adfd9e8acd03605d5f21c237b.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/about-us-36da6e31c626f43edbcc84481f042050.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/plans-1efbad7ec7e742763cf0b4dd6067727a.json",
+                    "name": "Plans"
+                },
+                {
+                    "source": "templates\/case-study-2-510094d859fe657bf136d3fb0f44f4b1.json",
+                    "name": "Case Study 2"
+                },
+                {
+                    "source": "templates\/team-36524bc5bdb717809e1e1cbdcd9c650c.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/contact-us-152ced9b972fd0010ef360700d4db577.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 13453,
+            "dimensions": [
+                28,
+                214
+            ]
+        },
+        {
+            "filename": "pexels-photo-2062882.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-38\/wp-content\/uploads\/sites\/41\/2018\/07\/pexels-photo-2062882-500x625.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-5362697496382b05593b0020a8d2248e.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-d1826e4ed0b07b6d26f68da70faec05a.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-c3ca992604624dd11bfa61827d71ee23.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/services-51526113e905c123e0a79a366d685bb4.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-2-435fa014bdbd29a62d39434f808b0c96.json",
+                    "name": "Services 2"
+                },
+                {
+                    "source": "templates\/portfolio-f33647019652e07b21195865da21f23a.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-2-601dfd462319fb21e87446e4701b9481.json",
+                    "name": "Portfolio 2"
+                },
+                {
+                    "source": "templates\/about-us-2-1d364e9adfd9e8acd03605d5f21c237b.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/about-us-36da6e31c626f43edbcc84481f042050.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/plans-1efbad7ec7e742763cf0b4dd6067727a.json",
+                    "name": "Plans"
+                },
+                {
+                    "source": "templates\/case-study-2-510094d859fe657bf136d3fb0f44f4b1.json",
+                    "name": "Case Study 2"
+                },
+                {
+                    "source": "templates\/team-36524bc5bdb717809e1e1cbdcd9c650c.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 139411,
+            "dimensions": [
+                1200,
+                1500
+            ]
+        },
+        {
+            "filename": "pexels-photo-3209221.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-38\/wp-content\/uploads\/sites\/41\/2018\/07\/pexels-photo-3209221-500x753.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-5362697496382b05593b0020a8d2248e.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-d1826e4ed0b07b6d26f68da70faec05a.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-c3ca992604624dd11bfa61827d71ee23.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/how-we-work-5d1246fb2706e2c80123e764ae3c76dd.json",
+                    "name": "How We Work"
+                },
+                {
+                    "source": "templates\/portfolio-f33647019652e07b21195865da21f23a.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/about-us-2-1d364e9adfd9e8acd03605d5f21c237b.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/about-us-36da6e31c626f43edbcc84481f042050.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/case-study-2-510094d859fe657bf136d3fb0f44f4b1.json",
+                    "name": "Case Study 2"
+                },
+                {
+                    "source": "templates\/team-36524bc5bdb717809e1e1cbdcd9c650c.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 94527,
+            "dimensions": [
+                996,
+                1500
+            ]
+        },
+        {
+            "filename": "pexels-photo-450271.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-38\/wp-content\/uploads\/sites\/41\/2018\/07\/pexels-photo-450271.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-5362697496382b05593b0020a8d2248e.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 52416,
+            "dimensions": [
+                640,
+                426
+            ]
+        },
+        {
+            "filename": "bg2.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-38\/wp-content\/uploads\/sites\/41\/2018\/07\/bg2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-5362697496382b05593b0020a8d2248e.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services-51526113e905c123e0a79a366d685bb4.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/how-we-work-5d1246fb2706e2c80123e764ae3c76dd.json",
+                    "name": "How We Work"
+                },
+                {
+                    "source": "templates\/about-us-36da6e31c626f43edbcc84481f042050.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/faq-0f4330c2dd31183f6b00088b55f4d3e9.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/plans-1efbad7ec7e742763cf0b4dd6067727a.json",
+                    "name": "Plans"
+                },
+                {
+                    "source": "templates\/contact-us-152ced9b972fd0010ef360700d4db577.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 198583,
+            "dimensions": [
+                1920,
+                600
+            ]
+        },
+        {
+            "filename": "logo1.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-38\/wp-content\/uploads\/sites\/41\/2018\/07\/logo1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-5362697496382b05593b0020a8d2248e.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-3-c3ca992604624dd11bfa61827d71ee23.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/services-51526113e905c123e0a79a366d685bb4.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/how-we-work-5d1246fb2706e2c80123e764ae3c76dd.json",
+                    "name": "How We Work"
+                },
+                {
+                    "source": "templates\/portfolio-2-601dfd462319fb21e87446e4701b9481.json",
+                    "name": "Portfolio 2"
+                },
+                {
+                    "source": "templates\/about-us-36da6e31c626f43edbcc84481f042050.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/help-0d081d05f614a994aae2b6b38585d994.json",
+                    "name": "Help"
+                }
+            ],
+            "filesize": 2426,
+            "dimensions": [
+                200,
+                73
+            ]
+        },
+        {
+            "filename": "logo5.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-38\/wp-content\/uploads\/sites\/41\/2018\/07\/logo5.png",
+            "templates": [
+                {
+                    "source": "templates\/home-5362697496382b05593b0020a8d2248e.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-3-c3ca992604624dd11bfa61827d71ee23.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/services-51526113e905c123e0a79a366d685bb4.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/how-we-work-5d1246fb2706e2c80123e764ae3c76dd.json",
+                    "name": "How We Work"
+                },
+                {
+                    "source": "templates\/portfolio-2-601dfd462319fb21e87446e4701b9481.json",
+                    "name": "Portfolio 2"
+                },
+                {
+                    "source": "templates\/about-us-36da6e31c626f43edbcc84481f042050.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/help-0d081d05f614a994aae2b6b38585d994.json",
+                    "name": "Help"
+                }
+            ],
+            "filesize": 2514,
+            "dimensions": [
+                200,
+                73
+            ]
+        },
+        {
+            "filename": "logo2.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-38\/wp-content\/uploads\/sites\/41\/2018\/07\/logo2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-5362697496382b05593b0020a8d2248e.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-3-c3ca992604624dd11bfa61827d71ee23.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/services-51526113e905c123e0a79a366d685bb4.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/how-we-work-5d1246fb2706e2c80123e764ae3c76dd.json",
+                    "name": "How We Work"
+                },
+                {
+                    "source": "templates\/portfolio-2-601dfd462319fb21e87446e4701b9481.json",
+                    "name": "Portfolio 2"
+                },
+                {
+                    "source": "templates\/about-us-36da6e31c626f43edbcc84481f042050.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/help-0d081d05f614a994aae2b6b38585d994.json",
+                    "name": "Help"
+                }
+            ],
+            "filesize": 2682,
+            "dimensions": [
+                200,
+                73
+            ]
+        },
+        {
+            "filename": "logo7.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-38\/wp-content\/uploads\/sites\/41\/2018\/07\/logo7.png",
+            "templates": [
+                {
+                    "source": "templates\/home-5362697496382b05593b0020a8d2248e.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-3-c3ca992604624dd11bfa61827d71ee23.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/services-51526113e905c123e0a79a366d685bb4.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/how-we-work-5d1246fb2706e2c80123e764ae3c76dd.json",
+                    "name": "How We Work"
+                },
+                {
+                    "source": "templates\/portfolio-2-601dfd462319fb21e87446e4701b9481.json",
+                    "name": "Portfolio 2"
+                },
+                {
+                    "source": "templates\/about-us-36da6e31c626f43edbcc84481f042050.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/help-0d081d05f614a994aae2b6b38585d994.json",
+                    "name": "Help"
+                }
+            ],
+            "filesize": 4259,
+            "dimensions": [
+                200,
+                73
+            ]
+        },
+        {
+            "filename": "logo4.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-38\/wp-content\/uploads\/sites\/41\/2018\/07\/logo4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-5362697496382b05593b0020a8d2248e.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-3-c3ca992604624dd11bfa61827d71ee23.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/services-51526113e905c123e0a79a366d685bb4.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/how-we-work-5d1246fb2706e2c80123e764ae3c76dd.json",
+                    "name": "How We Work"
+                },
+                {
+                    "source": "templates\/portfolio-2-601dfd462319fb21e87446e4701b9481.json",
+                    "name": "Portfolio 2"
+                },
+                {
+                    "source": "templates\/about-us-36da6e31c626f43edbcc84481f042050.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/help-0d081d05f614a994aae2b6b38585d994.json",
+                    "name": "Help"
+                }
+            ],
+            "filesize": 2676,
+            "dimensions": [
+                200,
+                73
+            ]
+        },
+        {
+            "filename": "logo3.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-38\/wp-content\/uploads\/sites\/41\/2018\/07\/logo3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-5362697496382b05593b0020a8d2248e.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-3-c3ca992604624dd11bfa61827d71ee23.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/services-51526113e905c123e0a79a366d685bb4.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/how-we-work-5d1246fb2706e2c80123e764ae3c76dd.json",
+                    "name": "How We Work"
+                },
+                {
+                    "source": "templates\/portfolio-2-601dfd462319fb21e87446e4701b9481.json",
+                    "name": "Portfolio 2"
+                },
+                {
+                    "source": "templates\/about-us-36da6e31c626f43edbcc84481f042050.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/help-0d081d05f614a994aae2b6b38585d994.json",
+                    "name": "Help"
+                },
+                {
+                    "source": "templates\/case-study-8be1064ed2b3cb8eff3cffd6850f6bc7.json",
+                    "name": "Case Study"
+                },
+                {
+                    "source": "templates\/case-study-2-510094d859fe657bf136d3fb0f44f4b1.json",
+                    "name": "Case Study 2"
+                }
+            ],
+            "filesize": 3056,
+            "dimensions": [
+                200,
+                73
+            ]
+        },
+        {
+            "filename": "logo6.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-38\/wp-content\/uploads\/sites\/41\/2018\/07\/logo6.png",
+            "templates": [
+                {
+                    "source": "templates\/home-5362697496382b05593b0020a8d2248e.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-3-c3ca992604624dd11bfa61827d71ee23.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/services-51526113e905c123e0a79a366d685bb4.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/how-we-work-5d1246fb2706e2c80123e764ae3c76dd.json",
+                    "name": "How We Work"
+                },
+                {
+                    "source": "templates\/portfolio-2-601dfd462319fb21e87446e4701b9481.json",
+                    "name": "Portfolio 2"
+                },
+                {
+                    "source": "templates\/about-us-36da6e31c626f43edbcc84481f042050.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/help-0d081d05f614a994aae2b6b38585d994.json",
+                    "name": "Help"
+                }
+            ],
+            "filesize": 3741,
+            "dimensions": [
+                200,
+                73
+            ]
+        },
+        {
+            "filename": "bg-png5.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-38\/wp-content\/uploads\/sites\/41\/2018\/07\/bg-png5.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2-d1826e4ed0b07b6d26f68da70faec05a.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-c3ca992604624dd11bfa61827d71ee23.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/services-2-435fa014bdbd29a62d39434f808b0c96.json",
+                    "name": "Services 2"
+                },
+                {
+                    "source": "templates\/portfolio-2-601dfd462319fb21e87446e4701b9481.json",
+                    "name": "Portfolio 2"
+                },
+                {
+                    "source": "templates\/about-us-2-1d364e9adfd9e8acd03605d5f21c237b.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/faq-0f4330c2dd31183f6b00088b55f4d3e9.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact-us-152ced9b972fd0010ef360700d4db577.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 82233,
+            "dimensions": [
+                1500,
+                860
+            ]
+        },
+        {
+            "filename": "web-agency-bg2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-38\/wp-content\/uploads\/sites\/41\/2018\/07\/web-agency-bg2-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-c3ca992604624dd11bfa61827d71ee23.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/services-51526113e905c123e0a79a366d685bb4.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/portfolio-f33647019652e07b21195865da21f23a.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/about-us-2-1d364e9adfd9e8acd03605d5f21c237b.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/help-0d081d05f614a994aae2b6b38585d994.json",
+                    "name": "Help"
+                },
+                {
+                    "source": "templates\/plans-1efbad7ec7e742763cf0b4dd6067727a.json",
+                    "name": "Plans"
+                },
+                {
+                    "source": "templates\/case-study-2-510094d859fe657bf136d3fb0f44f4b1.json",
+                    "name": "Case Study 2"
+                },
+                {
+                    "source": "templates\/team-36524bc5bdb717809e1e1cbdcd9c650c.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 200168,
+            "dimensions": [
+                2500,
+                1667
+            ]
+        },
+        {
+            "filename": "homeservc.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-38\/wp-content\/uploads\/sites\/41\/2018\/07\/homeservc.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3-c3ca992604624dd11bfa61827d71ee23.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/portfolio-f33647019652e07b21195865da21f23a.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-2-601dfd462319fb21e87446e4701b9481.json",
+                    "name": "Portfolio 2"
+                }
+            ],
+            "filesize": 84856,
+            "dimensions": [
+                1500,
+                860
+            ]
+        },
+        {
+            "filename": "homepage_mockup.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-38\/wp-content\/uploads\/sites\/41\/2018\/07\/homepage_mockup.png",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-f33647019652e07b21195865da21f23a.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/case-study-8be1064ed2b3cb8eff3cffd6850f6bc7.json",
+                    "name": "Case Study"
+                },
+                {
+                    "source": "templates\/case-study-2-510094d859fe657bf136d3fb0f44f4b1.json",
+                    "name": "Case Study 2"
+                }
+            ],
+            "filesize": 260226,
+            "dimensions": [
+                1166,
+                868
+            ]
+        },
+        {
+            "filename": "Screenshot-on-2020-05-11-at-15_28_49.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-38\/wp-content\/uploads\/sites\/41\/2018\/07\/Screenshot-on-2020-05-11-at-15_28_49-500x312.png",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-f33647019652e07b21195865da21f23a.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 102479,
+            "dimensions": [
+                797,
+                498
+            ]
+        },
+        {
+            "filename": "pexels-photo-1266012.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-38\/wp-content\/uploads\/sites\/41\/2018\/07\/pexels-photo-1266012.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-36da6e31c626f43edbcc84481f042050.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 49272,
+            "dimensions": [
+                640,
+                435
+            ]
+        },
+        {
+            "filename": "startup-photos.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-38\/wp-content\/uploads\/sites\/41\/2018\/07\/startup-photos.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-study-2-510094d859fe657bf136d3fb0f44f4b1.json",
+                    "name": "Case Study 2"
+                }
+            ],
+            "filesize": 35254,
+            "dimensions": [
+                640,
+                426
+            ]
+        }
+    ]
+}
